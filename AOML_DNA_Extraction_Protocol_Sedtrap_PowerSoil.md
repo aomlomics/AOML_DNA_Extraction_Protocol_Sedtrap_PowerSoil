@@ -35,7 +35,7 @@ pool_dna_num: not applicable
 nucl_acid_ext_method_additional: not applicable
 ---
 
-# NOAA/AOML Protocol for Extracting Sediment Trap Samples from Formalin Solution
+# NOAA/AOML DNA Extraction Protocol for Sediment Trap Samples containing Formalin
 
 ## PROTOCOL INFORMATION
 
