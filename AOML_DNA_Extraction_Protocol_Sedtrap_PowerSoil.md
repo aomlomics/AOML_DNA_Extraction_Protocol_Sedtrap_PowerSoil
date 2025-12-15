@@ -1,7 +1,7 @@
 ---
 # MIOP terms
 methodology_category: sample extraction and purification
-project: NOAA Atlantic Oceanographic and Meteorological Laboratory 'Omics Lab Protocols
+project: "NOAA Atlantic Oceanographic and Meteorological Laboratory Omics Program; https://github.com/aomlomics/protocols; https://zenodo.org/communities/aomlomics"
 purpose: biodiversity assessment objective [OBI:0001969]
 analyses: DNA extraction [OBI:0000257]
 geographic_location: Gulf of Mexico [GAZ:00002853]
@@ -16,7 +16,10 @@ personnel_required: 1
 language: en
 issued: January 2024
 audience: scientists
-publisher: NOAA's Atlantic Oceanographic and Meteorological Laboratory
+publisher: NOAA Atlantic Oceanographic and Meteorological Laboratory
+hasVersion: 1
+license: CC0 1.0 Universal
+maturity level: mature
 
 # FAIRe terms
 samp_vol_we_dna_ext: .250
