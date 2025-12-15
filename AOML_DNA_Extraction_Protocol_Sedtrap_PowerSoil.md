@@ -64,7 +64,7 @@ nucl_acid_ext_method_additional: not applicable
 | Shiozaki et al. | NA  | NA | 2021 |
 | Santoro lab | UC Santa Barbara  | NA | NA |
 | Emily Osborne | NOAA AOML | 0000-0001-9579-5851 | 2024-01-29 |
-| Gabriella Lirio | NOAA AOML, CIMAS | NA | 2025-01-29 |
+| Gabriella Lirio | NOAA AOML, CIMAS | 0009-0000-5574-1349 | 2025-01-29 |
 | Sammy Harding | NOAA AOML, MSU/NGI | 0009-0008-8885-6140 | 2025-06-24 |
 
 ### Related Protocols
@@ -98,6 +98,7 @@ nucl_acid_ext_method_additional: not applicable
 | ------------- | ------------- | ------------- |
 | 1.0.0  | 2025-01-29  | Initial release  |
 | 1.1.0 | 2025-06-24 | Minor formatting changes, changed name of NEBNext FFPE DNA Repair to NEBNext FFPE DNA Repair v2 Module |
+| 1.1.1 | 2025-12-15 | Updated YAML front matter |
 
 ### Acronyms and Abbreviations
 
