@@ -74,13 +74,12 @@ nucl_acid_ext_method_additional: not applicable
 - External Protocols: Protcols from manufacturers or other groups. 
 - Include the link to each protocol.
 - Include the version number (internal) or access date (external) of the protocol when it was accessed.
-- 
+
 #### Internal Protocols
 
 | PROTOCOL NAME | LINK | VERSION | RELEASE DATE |
 | ------------- | ------------ | ------------ | ---------- |
-| NOAA/AOML PCR Protocol 16S rRNA V4-V5 (EMP) | <https://github.com/aomlomics/protocols/blob/main/markdown/protocol_pcr_ssu16sv4v5_emp.md> | 1.1.0 | 2024-11-16 |
-| NOAA/AOML PCR Protocol 18S rRNA V9 (EMP) | <https://github.com/aomlomics/protocols/blob/main/markdown/protocol_pcr_ssu18sv9_emp.md> | 1.1.0 | 2024-11-16 |
+| AOML 'Omics Protocols | https://github.com/aomlomics/protocols | not applicable | ongoing |
 
 #### External Protocols
 
